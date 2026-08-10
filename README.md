@@ -1,19 +1,13 @@
 # academic-projects
-this repository contains my graduation academic projects major-project-1, major-project-2 and mini-project
+
+This repository contains my graduation academic projects: major-project-1, major-project-2 and mini-project.
+
+## Projects
+
+- [major-project-1](major-project-1.md) — Overview, design, setup and results for Major Project 1.
+- [major-project-2](major-project-2.md) — Overview, design, setup and results for Major Project 2.
+- [mini-project](mini-project.md) — Overview, design, setup and results for the Mini Project.
+- [LANE-DETECTION-OPENCV](LANE-DETECTION-OPENCV.md) — Lane detection for autonomous vehicles using OpenCV.
 
 
-# 1.major-project-1
-# Games Playing Using Re-InforcmentLearning
-👉 :https://github.com/chirravamshi/academic-projects/tree/major-project-1
-
-
-
-# 2.major-project-2
-# Voice Assistant System
-👉 :https://github.com/chirravamshi/academic-projects/tree/major-project-2
-
-
-
-# 3.mini-project
-# LANE-DETECTION-USING-OPENCV
-👉 :https://github.com/chirravamshi/academic-projects/tree/mini-project
+Each project folder contains code, data pointers (or instructions to obtain datasets), setup instructions, and results. If you want me to include any additional details (datasets, images, videos, reports) or to tailor any project README with actual commands, sample outputs, or plots from your repo files, tell me which project and share the missing specifics and I'll update the files accordingly.
