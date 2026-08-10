@@ -5,6 +5,6 @@ this repository contains my graduation academic projects major-project-1, major-
 
 2.major-project-2
 
-3.mini-project
+3.mini-project https://github.com/chirravamshi/academic-projects/tree/mini-project
 #LANE-DETECTION-OPENCV
 LANE DETECTION FOR AUTONOMOUS VEHICLES USING OPENCV
