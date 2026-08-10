@@ -8,8 +8,9 @@ this repository contains my graduation academic projects major-project-1, major-
 2.major-project-2
 
 
-3.mini-project 
-#LANE-DETECTION-OPENCV
+# 3.mini-project
+
+# LANE-DETECTION-USING-OPENCV
 
 LANE DETECTION FOR AUTONOMOUS VEHICLES USING OPENCV
 
